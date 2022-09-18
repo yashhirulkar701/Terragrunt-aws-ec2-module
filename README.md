@@ -1,4 +1,6 @@
 #  Terragrunt to use terraform in different environments 
+#
+![SWUbanner](https://miro.medium.com/max/840/0*pUXnfvIBhAWkHINg.png)
 
 This project we will create an AWS EC2 instance using Terragrunt and Terraform. 
 
